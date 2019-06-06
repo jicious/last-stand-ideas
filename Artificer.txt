@@ -1,0 +1,23 @@
+===========
+~Artificer~
+===========
+
+~Weapons: Light Cannon, Arcane Rifle, 
+
+Light Cannon: Short charge time before a large beam of concentrated light is fired
+Arcane Rifle: Shoots short bursts of pure solidified magic
+
+~Armour: Living Armour, Legion, Conduit, Accelerator
+
+Living Armour: Sentient armour that actively protects the wearer from damage
+Legion: Heavy armour that gives a small bonus to protection for nearby allies
+Conduit: Light armour made from special metals that helps focus magic
+Accelerator: Magically powered joints helps the wearer move and attack faster
+
+~Accesories: Black Hole Generator, Gate, Time Field, 
+
+Gravity Generator: A device that channels large amounts of magic to create a gravity well pulling enemies inwards
+Gate: Creates a gate in front of the user and at a chosen location that will let the user and his allies go back and forth through the portal at will for a limited time
+Time Field: Intelligent marvel of tech and magic that slows enemies but does not effect the users allies
+
+~Artifacts: Fusion, 

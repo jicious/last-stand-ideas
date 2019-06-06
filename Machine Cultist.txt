@@ -1,0 +1,22 @@
+=================
+~Machine Cultist~
+=================
+
+~Weapons: Tesla Shield, Scythe 2h, Claws (Dual/Single), Whip, Harpoon Rifle
+
+Telsa Shield: Shield that gives a decent amount of armour and has a chance to reactively shoot out lightning at attackers
+Scythe: Large armour piercing damage with a small chance to instantly kill non heroic enemies
+Claws: Causes stacking bleeding damage (dual doubles the stacks)
+Whip: Electrified whip that shocks the enemies stunning them, while stunned will periodically hit nearby enemies with spikes of lightning
+Harpoon Rifle: Large armour piercing harpoons that can peirce through small targets
+
+~Armour: Vampire, Blood Stench Iron, Shadow Mantle, Puppeteer
+
+Vampire: Armour that gives the user life steal
+Blood Stench Iron: Heavy armour that lowers the damage of surrounding enemies
+Shadow Mantle: Light armour that lets you turn invisible
+Puppeteer: Light armour that gives spiderbots that takes control of enemies after death
+
+~Accesories: Blade Wings, Spider Mine, , 
+
+~Artifacts: Fusion,

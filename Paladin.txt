@@ -1,0 +1,24 @@
+=========
+~Paladin~
+=========
+
+~Weapons: Hammer 2h, Paladin Shield, Flail, Greatsword 2h, Battle Axe
+
+Hammer: Large single target damage that stuns targets and gives a shockwave ability
+Paladin Shield: Large shield with large armour bonus and greatly reduces ranged damage received
+Flail: Attacks starts slow but gain momentum while in combat, loses momentum after a duration out of combat
+Greatsword: High damage with a change to do a spinning attack that hits everyone around them and knocks them back
+Battle Axe: Deals armour piercing damage that can cause bleeding damage
+
+~Armour: Sanctified Armour, Heavy Plate, Censer, Thorn
+
+Sanctified Armour: Medium armour that adds magical energy to attacks
+Heavy Plate: Super Heavy Armour
+Censer: Armour with censers on the shoulders that emit smokes giving a buff to themselves and allies
+Thorn: Hurts melee attackers when struck
+
+~Accesories: War Standard, 
+
+War Standard: Plants a battle flag giving allies in the area a buff to stats
+
+~Artifacts: Fusion, 

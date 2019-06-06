@@ -1,0 +1,15 @@
+=============
+~Tech Doctor~
+=============
+
+~Weapons: Syringe Claws, Toxin Spreader, Voodoo Staff
+
+Syringe Claws: Injects targets with an extremely deadly venom doing high damage over time
+Plague Spreader: Shoots out clouds of a plague that deals moderade damage over time and can make enemies explode on death
+Voodoo Staff: Shoots a beam of dark magic that deals high single target damage, comes with an ability to link multiple enemies together
+
+~Armour: 
+
+~Accesories: 
+
+~Artifacts: Fusion, 
