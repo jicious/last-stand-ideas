@@ -1,1 +1,3 @@
 Classes: Mage - Artificer - Machine Cultist - Palladin - Tech Doctor - Tinkerer - Golem
+
+Enemy Factions: Mutants, Wild Tamers, Cultists of the Machine, The Magi Rebellion, The Church of Purity
