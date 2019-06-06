@@ -1,0 +1,34 @@
+======
+~Mage~
+======
+
+~Weapons: Magic Missile Staff, Channeling Staff, Artillery Staff, Mana Sword, Source Shield, Amplifier Orb, Focus Lense
+
+Magic Missile Staff: Basic missile attack 
+Channeling Staff: Continuous beam attack (limited charge)
+Artillery Staff: Aoe Artillery (has a minimum range)
+Mana Sword: Melee average attack with a toggle to consume mana for high armour piercing damage
+Source Shield: Good ranged damage reduction and magic resist
+Amplifier Orb: Increased Magic Damage
+Focus Lense: Increased Mana Regen
+
+~Armour: Warp, Battle, Illusionist, Mana Shield
+
+Warp: Light armour that gives you the ability to teleport across the battlefield
+Battle: Heavy armour with high physical resist with a melee focus
+Illusionist: Surrounds you in minor illusions (enemy miss chance)
+Mana Shield: Gives you a toggled ability to reduce damage by using mana
+
+~Accesories: Lightning Strike, Fireball, Earth Wall, Mana Grenade
+
+Lightning Strike: A bolt of lightning dealing high magic damage and stuns the enemy
+Fireball: Big aoe damage with burning dot
+Earth Wall: Creates a wall of stone that gives complete cover from direct fire
+Mana Grenade: Throw a grenade of overloaded mana that creates a mana rift in the area (bonus damage to magic enemies)
+
+~Artifacts: Fusion, Fast Cast Tome, Magic Battery, Cooldown Tome
+
+Fast Cast Tome: Reduces/removes cast times
+Magic Battery: Increases maximum mana and regen
+Cooldown Tome: Reduces ability cooldowns
+Fusion: Combines 2 Accesories to create a new ability
