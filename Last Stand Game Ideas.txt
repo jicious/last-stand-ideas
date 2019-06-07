@@ -1,3 +1,8 @@
 Classes: Mage - Artificer - Machine Cultist - Palladin - Tech Doctor - Tinkerer - Golem
 
 Enemy Factions: Mutants, Wild Tamers, Cultists of the Machine, The Magi Rebellion, The Church of Purity
+
+~Legends~ 
+WU = Wind up, short duration of charging before release
+C = Charge, has limited amount of charge that recharges over time
+U = Unshakable, Unit cannot be knocked down

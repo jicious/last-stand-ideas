@@ -5,21 +5,21 @@
 ~Weapons: Magic Missile Staff, Channeling Staff, Artillery Staff, Mana Sword, Source Shield, Amplifier Orb, Focus Lense
 
 Magic Missile Staff: Basic missile attack 
-Channeling Staff: Continuous beam attack (limited charge)
+Channeling Staff: Continuous beam attack (Charge)
 Artillery Staff: Aoe Artillery (has a minimum range)
 Mana Sword: Melee average attack with a toggle to consume mana for high armour piercing damage
 Source Shield: Good ranged damage reduction and magic resist
 Amplifier Orb: Increased Magic Damage
 Focus Lense: Increased Mana Regen
 
-~Armour: Warp, Battle, Illusionist, Mana Shield
+~Armour: Warp, Battle (U), Illusionist, Mana Shield
 
 Warp: Light armour that gives you the ability to teleport across the battlefield
-Battle: Heavy armour with high physical resist with a melee focus
+Battle: Heavy armour with high physical resist with a melee focus (Unshakable)
 Illusionist: Surrounds you in minor illusions (enemy miss chance)
 Mana Shield: Gives you a toggled ability to reduce damage by using mana
 
-~Accesories: Lightning Strike, Fireball, Earth Wall, Mana Grenade
+~Accessories: Lightning Strike, Fireball, Earth Wall, Mana Grenade
 
 Lightning Strike: A bolt of lightning dealing high magic damage and stuns the enemy
 Fireball: Big aoe damage with burning dot

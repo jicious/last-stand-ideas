@@ -4,8 +4,8 @@
 
 ~Weapons: Saw Arms, Steam Cannon, Superheavy Arms, Piledrivers
 
-~Armour: Titan Plating, Steam Propulsion, Superconductive Metal, 
+~Armour: Titan Plating (U), Steam Propulsion, Magical Conductive Metal, 
 
-~Accesories: 
+~Accessories: 
 
 ~Artifacts: Fusion, Experimental Steam Generator, Mega Vents, Tansformer 

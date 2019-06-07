@@ -10,6 +10,6 @@ Voodoo Staff: Shoots a beam of dark magic that deals high single target damage, 
 
 ~Armour: 
 
-~Accesories: 
+~Accessories: 
 
 ~Artifacts: Fusion, 

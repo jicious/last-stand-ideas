@@ -17,6 +17,6 @@ Blood Stench Iron: Heavy armour that lowers the damage of surrounding enemies
 Shadow Mantle: Light armour that lets you turn invisible
 Puppeteer: Light armour that gives spiderbots that takes control of enemies after death
 
-~Accesories: Blade Wings, Spider Mine, , 
+~Accessories: Blade Wings, Spider Mine, Shroud of Nightmares, Unshakable
 
 ~Artifacts: Fusion,

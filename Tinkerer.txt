@@ -6,6 +6,6 @@
 
 ~Armour: 
 
-~Accesories: Turret, Shield Generator, 
+~Accessories: Turret, Shield Generator, 
 
 ~Artifacts: Fusion, 
