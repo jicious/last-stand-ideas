@@ -9,15 +9,3 @@
 ~Accesories: Turret, Shield Generator, 
 
 ~Artifacts: Fusion, 
-
-=======
-~Golem~
-=======
-
-~Weapons: Saw Arms, Steam Cannon, Superheavy Arms, 
-
-~Armour: Titan Plating, Steam Propulsion, Superconductive Metal, Transformer
-
-~Accesories: 
-
-~Artifacts: Fusion, Experimental Steam Generator, Mega Vents, Tansformer 
